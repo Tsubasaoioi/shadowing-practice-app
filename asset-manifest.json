@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/shadowing-practice-app/static/css/main.1cef264e.css",
-    "main.js": "/shadowing-practice-app/static/js/main.f08d8dd7.js",
+    "main.css": "/shadowing-practice-app/static/css/main.532ca19d.css",
+    "main.js": "/shadowing-practice-app/static/js/main.c2d04ec0.js",
     "static/js/453.17376abf.chunk.js": "/shadowing-practice-app/static/js/453.17376abf.chunk.js",
     "index.html": "/shadowing-practice-app/index.html",
-    "main.1cef264e.css.map": "/shadowing-practice-app/static/css/main.1cef264e.css.map",
-    "main.f08d8dd7.js.map": "/shadowing-practice-app/static/js/main.f08d8dd7.js.map",
+    "main.532ca19d.css.map": "/shadowing-practice-app/static/css/main.532ca19d.css.map",
+    "main.c2d04ec0.js.map": "/shadowing-practice-app/static/js/main.c2d04ec0.js.map",
     "453.17376abf.chunk.js.map": "/shadowing-practice-app/static/js/453.17376abf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cef264e.css",
-    "static/js/main.f08d8dd7.js"
+    "static/css/main.532ca19d.css",
+    "static/js/main.c2d04ec0.js"
   ]
 }
